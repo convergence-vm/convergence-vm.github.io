@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: "Century Gothic", arial, Serif;
+}
+
+.statistic{
+	background-color: #000;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.statistic_title{
+	color: #fff;
+	padding-bottom: 20px;
+
+}
+
+input{
+	border:2px solid #FCA574;
+	background-color: #000;
+	color: #fff;
+}
+
+.number{
+	font-size: 30px;
+	color: #fff;
+	padding-top: 50px;
+	border-top: 3px solid #FFF;
+}
+
+.row{
+	padding-bottom: 50px;
+}
+
+.row h2{
+	color:#fff;
+}
+
+.statistic_button{
+	border:2px solid #FCA574;
+	background-color: #000;
+	color: #fff;
+	padding: 0 5px;
+}
